@@ -96,8 +96,6 @@ SmartEd ensures alignment with:
 - **Faculty**: Dashboards showing student performance, course demand, and dynamic content insights  
 - **Support**: Chatbots, virtual assistants, and proactive alerts integrated into the user journey
 
-🔗 [SmartEd Mockup](https://testingtestingonetwothreeforsphproject.my.canva.site/smarted-recommender)  
-
 ---
 
 ## Conclusion  
